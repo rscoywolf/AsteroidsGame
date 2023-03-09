@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.ArrayList;
-import java.util.Random;
+import java.util.Rndom;
 import javax.swing.Timer;
 
 @SuppressWarnings("serial")
